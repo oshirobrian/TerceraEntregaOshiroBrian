@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css");
+
+* {
+    margin: 10px;
+}
+
+main {
+    background-color: rgba(242, 242, 221, 0.264);
+    padding: 10px;
+
+}
+
+footer {
+    background-color: rgb(237, 228, 239);
+    font-weight: 700;
+    padding: 10px;
+}
+
+hr {
+    border-top: 2px solid orange !important;
+}
+
+.div-cotizar {
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.error-prendas {
+    padding: 20px;
+    text-align: center;
+    background-color: orangered;
+    color: whitesmoke;
+    border-radius: 12px;
+}
+
+button.button.button-outline {
+    font-size: x-large !important;
+}
+
+button.button.button-outline:active {
+    background: pink !important;
+}

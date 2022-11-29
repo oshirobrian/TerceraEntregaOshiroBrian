@@ -1,0 +1,10 @@
+const prendas = [{ imagen: '👚', codigo: 1, tipo: 'Remera rosa', precio: 2599 },
+{ imagen: '🩳', codigo: 2, tipo: 'Bermuda playera', precio: 3859 },
+{ imagen: '👕', codigo: 3, tipo: 'Remera casual', precio: 7851 },
+{ imagen: '👖', codigo: 4, tipo: 'Pantalón de jean', precio: 8599 },
+{ imagen: '👔', codigo: 5, tipo: 'Camisa Office', precio: 4894 },
+{ imagen: '🧥', codigo: 6, tipo: 'Abrigo Gadget', precio: 9748 },
+{ imagen: '🎩', codigo: 7, tipo: 'Sombrero de gala', precio: 3281 },
+{ imagen: '🎽', codigo: 8, tipo: 'Musculosa runner', precio: 1938 },
+{ imagen: '🩱', codigo: 9, tipo: 'Malla enteriza Lafelí', precio: 3122 },
+{ imagen: '👘', codigo: 10, tipo: 'Kimono Shimauta', precio: 8745 }]
